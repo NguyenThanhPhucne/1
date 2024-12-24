@@ -4,7 +4,7 @@ let w = (c.width = window.innerWidth),
   hw = w / 2;
 (hh = h / 2),
   (opts = {
-    strings: ["HAPPY", "BIRTHDAY", "Nhu Quynh!", "Wish you all best", "on your special day!!!", "Tang Quynh 999 bong hoa", "Vi them Quynh nua", "la tron 1000 :))"],
+    strings: ["----------------------------","-      HAPPY BIRTHDAY      -", "-            AND           -", "-      MERRY CHRISTMAS     -", "-     MY BAE - HAI YEN     -", "-        NHE <33333!       -", "-            \n             -", "-     Wish you all best    -", "-   on your special day!   -", "-            \n             -", "-   Tang bae 999 bong hoa  -", "-      Vi them em nua      -", "-       la tron 1000       -", "-            \n             -", "-         xin loi vi       -", "- dau anh toan hinh bong em-", "-     nen anh quen lam     -", "-    nay moi co qua duoc :)-","-            \n             -", "----------------------------","\n","              ntp_with_love"],
     charSize: 20,
     charSpacing: 20,
     lineHeight: 25,
